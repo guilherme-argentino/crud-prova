@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/rrantz/crud-prova.svg?branch=master)](https://travis-ci.org/rrantz/crud-prova)
+
 # Crud prova
 Prova de apitidão para KLB Group
 
