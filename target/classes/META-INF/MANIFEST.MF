@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: crud-prova
+Implementation-Version: 1.0.0
+Built-By: Guilherme
+Implementation-Vendor-Id: com.github.guilherme
+Build-Jdk: 1.8.0_201
+Implementation-URL: http://projects.spring.io/spring-boot/crud-prova/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
