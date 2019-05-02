@@ -1,7 +1,7 @@
-[![Build Status](https://travis-ci.org/rrantz/crud-prova.svg?branch=master)](https://travis-ci.org/rrantz/crud-prova)
+[![Build Status](https://travis-ci.org/guilherme-argentino/crud-prova.svg?branch=master)](https://travis-ci.org/rrantz/crud-prova)
 
 # Crud prova
-Prova de apitidão para KLB Group
+Prova de apitidão para consultoria
 
 # Construindo
 Na pasta que baixar estes fontes, execute:
