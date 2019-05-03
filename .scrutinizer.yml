@@ -17,9 +17,6 @@ build:
             tests:
                 override:
                     - java-scrutinizer-run
-                    -
-                        command: java-sonar-run
-                        use_website_config: true
                     - js-scrutinizer-run
 
         tests: true
