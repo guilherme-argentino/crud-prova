@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/guilherme-argentino/crud-prova.svg?branch=master)](https://travis-ci.org/rrantz/crud-prova)
+[![Build Status](https://travis-ci.org/guilherme-argentino/crud-prova.svg?branch=master)](https://travis-ci.org/guilherme-argentino/crud-prova)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/guilherme-argentino/crud-prova/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/guilherme-argentino/crud-prova/?branch=master)
 
 # Crud prova
