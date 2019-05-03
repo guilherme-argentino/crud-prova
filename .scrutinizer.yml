@@ -1,0 +1,25 @@
+filter:
+    paths:
+        - src/main/java/
+    excluded_paths:
+        - 'src/*'
+        - '*.min.js'
+checks:
+    javascript: true
+    java:
+        code_rating: true
+build:
+    nodes:
+        analysis:
+            environment:
+                docker:
+                    remote_engine: true
+            tests:
+                override:
+                    - java-scrutinizer-run
+                    -
+                        command: java-sonar-run
+                        use_website_config: true
+                    - js-scrutinizer-run
+
+        tests: true
