@@ -3,10 +3,11 @@ filter:
         - src/main/java/
     excluded_paths:
         - test/*
+
 checks:
     javascript: true
-    java:
-        code_rating: true
+    java: true
+
 build:
     nodes:
         analysis:
