@@ -1,0 +1,6 @@
+{
+  "name": "Spring Boot AngularJs Demo",
+  "description": "This is a small demo application for showing how to run a Spring Boot application with AngularJs",
+  "repository": "https://github.com/guilherme-argentino/crud-prova",
+  "image": "heroku/java"
+}
