@@ -1,6 +1,6 @@
 {
-  "name": "Spring Boot AngularJs Demo",
-  "description": "This is a small demo application for showing how to run a Spring Boot application with AngularJs",
+  "name": "CRUD PROVA",
+  "description": "Prova de apitidão para uma consultoria",
   "repository": "https://github.com/guilherme-argentino/crud-prova",
   "image": "heroku/java"
 }
